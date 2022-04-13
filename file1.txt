@@ -1,2 +1,7 @@
 created by Rachel Yang on 4/13/22 at 13:45
+<<<<<<< HEAD
 line added by Rachel Yang on 4/13/22 at 14:24
+=======
+STEP 3:  added by Riki Imai on 13/04/22 at 14:06
+STEP 3:  added by Maika Nishiguchi on 13/04/22 at 14:40
+>>>>>>> 4b8cf90c36d461af8ede03c5b5b8d39efd161439
