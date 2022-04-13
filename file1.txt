@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 created by Rachel Yang on 4/13/22 at 13:29
 created by Maika Nishiguchi on 4/13/22 at 14:02
+=======
+created by Rachel Yang on 4/13/22 at 13:45
+>>>>>>> 8d61ade3acbd828074ab2a141c9875606aa57b32
